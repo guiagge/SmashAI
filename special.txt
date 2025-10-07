@@ -1,0 +1,142 @@
+Hero (brave):
+- 22: Zapple
+- 23: Kazap
+- 24: Zapple (A)
+- 25: Kazap (A)
+
+Cloud:
+- 22: Limit Neutral B
+- 23: Limit Side B
+- 24: Limit Up B
+- 26: Limit Neutral B (A)
+- 27: Limit Side B (A)
+- 28: Limit Up B (A)
+
+Kazuya (demon):
+- 22: attack_stand_1_dummy
+- 23: attack_stand_21_dummy
+- 24: attack_stand_31_dummy
+- 25: attack_stand_4_dummy
+- 26: attack_stand_5_dummy
+- 27: attack_stand_6_dummy
+- 28: attack_squat_1_dummy
+- 29: attack_squat_2_dummy
+- 30: attack_squat_3_dummy
+- 31: attack_squat_4_dummy
+- 32: catch_command_dummy
+- 33: attack_step_2_dummy
+- 34: attack_step_2f_dummy
+- 35: attack_step_2l_dummy
+- 36: attack_step_2s_dummy
+- 37: attack_rage_drive_dummy
+
+Terry (dolly):
+- 30: Power Geyser
+- 31: Buster Wolf
+- 32: Crackshoot
+- 34: Crackshoot (A)
+
+Game & Watch:
+- 25: Bucket
+- 29: Bucket (A)
+
+Joker (jack):
+- 22: Gun (Arsene)
+- 23: special_s2_dummy
+- 24: Up B?
+- 25: special_lw
+- 26: special_air_n2_dummy
+- 27: special_air_s2_dummy
+- 28: Up B?
+- 29: special_air_lw
+
+Ken:
+- 22: attack_11_w
+- 23: attack_s3_s_w
+- 24: attack_hi3_w
+- 25: attack_lw3_w
+
+Little Mac:
+- 22: KO Punch
+- 26: KO Punch (A)
+
+Byleth (master):
+- 23: special_s_start_dash
+- 27: special_air_s_start_dash
+
+Mii Brawler:
+- 22: special_n2_start
+- 23: special_s2_start
+- 24: special_hi2
+- 25: none
+- 26: special_air_n2_start
+- 27: special_air_s2_start
+- 28: special_air_hi2
+- 29: none
+- 30: special_n3
+- 31: special_s3_dash
+- 32: special_hi3
+- 33: special_lw3
+- 34: special_air_n3
+- 35: special_air_s3_dash
+- 36: special_air_hi3
+- 37: special_air_lw3
+
+Mii Gunner:
+- 22: special_n2_start
+- 23: special_s2_start
+- 24: special_hi2_squat
+- 25: special_lw2
+- 26: special_air_n2_start
+- 27: special_air_s2_start
+- 28: special_air_hi2_squat
+- 29: special_air_lw2
+- 30: special_n3_start
+- 31: special_s3_1
+- 32: none
+- 33: none
+- 34: special_air_n3_start
+- 35: special_air_s3_1
+- 36: none
+- 37: none
+
+Mii Swordfighter:
+- 22: special_n2
+- 23: special_s2_start
+- 24: special_hi2_hold
+- 25: special_lw2
+- 26: special_air_n2
+- 27: special_air_s2_start
+- 28: special_hi2_hold_air
+- 29: special_air_lw2
+- 30: special_n3_start
+- 31: special_s3_1
+- 32: special_hi3_start
+- 33: special_lw3
+- 34: special_air_n3_start
+- 35: special_air_s3_1
+- 36: special_air_hi3
+- 37: special_air_lw3
+
+Villager (murabito):
+- 22: Pocket
+- 26: Pocket (A)
+
+Ryu:
+- 24: Cotovelo?
+
+Isabelle (shizue):
+- 22: Pocket
+- 26: Pocket (A)
+
+Min Min (tantan):
+- 29: F Smash (A)
+- 30: B Smash (A)
+
+Sora (trail):
+- 22: 0x106b0c0d0c
+- 26: special_air_n2_dummy
+
+Wario:
+- 25: Waft - Fully charged?
+- 29: Waft - Fully charged? (A)
